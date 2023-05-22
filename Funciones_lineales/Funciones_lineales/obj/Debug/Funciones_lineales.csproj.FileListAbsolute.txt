@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\bin\Debug\Funciones_lineales.exe.config
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\bin\Debug\Funciones_lineales.exe
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\bin\Debug\Funciones_lineales.pdb
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.Form1.resources
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.Properties.Resources.resources
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.exe
+C:\Users\Admin\Documents\cmmi\Equipo4\Funciones_lineales\Funciones_lineales\obj\Debug\Funciones_lineales.pdb
